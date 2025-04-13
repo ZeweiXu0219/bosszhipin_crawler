@@ -1,0 +1,57 @@
+{
+    "求职类型": {
+        "不限": "sel-jobType-0",
+        "全职": "sel-jobType-1901",
+        "兼职": "sel-jobType-1903"
+    },
+    "工作经验": {
+        "不限": "sel-exp-0",
+        "在校生": "sel-exp-108",
+        "应届生": "sel-exp-102",
+        "经验不限": "sel-exp-101",
+        "1年以内": "sel-exp-103",
+        "1-3年": "sel-exp-104",
+        "3-5年": "sel-exp-105",
+        "5-10年": "sel-exp-106",
+        "10年以上": "sel-exp-107"
+    },
+    "薪资待遇": {
+        "不限": "sel-salary-0",
+        "3K以下": "sel-salary-402",
+        "3-5K": "sel-salary-403",
+        "5-10K": "sel-salary-404",
+        "10-20K": "sel-salary-405",
+        "20-50K": "sel-salary-406",
+        "50K以上": "sel-salary-407"
+    },
+    "学历要求": {
+        "不限": "sel-degree-0",
+        "初中及以下": "sel-degree-209",
+        "中专/中技": "sel-degree-208",
+        "高中": "sel-degree-206",
+        "大专": "sel-degree-202",
+        "本科": "sel-degree-203",
+        "硕士": "sel-degree-204",
+        "博士": "sel-degree-205"
+    },
+    "公司规模": {
+        "不限": "sel-scale-0",
+        "0-20人": "sel-scale-301",
+        "20-99人": "sel-scale-302",
+        "100-499人": "sel-scale-303",
+        "500-999人": "sel-scale-304",
+        "1000-9999人": "sel-scale-305",
+        "10000人以上": "sel-scale-306"
+    },
+    "融资阶段": {
+        "不限": "sel-stage-0",
+        "未融资": "sel-stage-801",
+        "天使轮": "sel-stage-802",
+        "A轮": "sel-stage-803",
+        "B轮": "sel-stage-804",
+        "C轮": "sel-stage-805",
+        "D轮及以上": "sel-stage-806",
+        "已上市": "sel-stage-807",
+        "不需要融资": "sel-stage-808"
+    }
+}
